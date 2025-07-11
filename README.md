@@ -1,6 +1,6 @@
-# Unreal Snippets
+# Unreal Snippets -> Currently work in progress, rewriting snippets from UE4 to UE5
 
-A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
+A collection of Sublime Text 4 snippets for writing Unreal Engine 4 game code.
 
 Some of these snippets assume that your project's source modules follow the convention of splitting source files into _Public_ and _Private_ subdirectories.
 
